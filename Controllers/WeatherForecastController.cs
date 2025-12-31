@@ -29,5 +29,5 @@ namespace PracticeOps.Controllers
             })
             .ToArray();
         }
-    }
+    
 }
